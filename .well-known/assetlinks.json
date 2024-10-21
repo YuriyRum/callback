@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+          "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+          "namespace": "android_app",
+          "package_name": "com.telekom.ic4.dashboard.test",
+          "sha256_cert_fingerprints": [
+            "CC:2D:80:D3:D5:F2:42:56:C7:2B:08:CF:27:C2:79:FD:45:21:B9:A9:71:23:B2:FE:98:58:6E:DC:D3:60:57:2C"
+          ]
+        }
+      }
+]
